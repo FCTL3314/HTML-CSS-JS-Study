@@ -1,0 +1,244 @@
+body {
+    color: #000;
+    font-family: "Lato", serif;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 18px;
+    line-height: 25px;
+}
+
+.header-title {
+    font-family: "Merriweather", serif;
+    font-size: 36px;
+    font-weight: 900;
+    line-height: 50px;
+    color: #005FA3;
+}
+
+.header-contact-text {
+    font-family: "Lato", serif;
+    font-size: 13px;
+    font-weight: 400;
+    line-height: 17px;
+    color: #000;
+}
+
+.header-contact-link {
+    text-decoration: none;
+}
+
+.header-nav-link {
+    font-family: "Lato", serif;
+    font-size: 14px;
+    font-weight: 700;
+    line-height: 17px;
+    letter-spacing: 0.1em;
+    text-decoration: none;
+    text-transform: uppercase;
+    color: #222;
+
+}
+
+.desc {
+    background-color: #191E22;
+    background-image: url("../img/first-screen-bkg.jpg");
+
+}
+
+.desc-title {
+    font-family: "Merriweather", serif;
+    font-size: 48px;
+    font-weight: 700;
+    line-height: 66px;
+    color: #FFF;
+}
+
+
+.desc-link {
+    font-family: "Lato", serif;
+    font-size: 25px;
+    font-weight: 400;
+    line-height: 34px;
+    color: #FFF;
+    text-decoration: none;
+}
+
+.section-title {
+    color: #BDBDBD;
+    font-family: "Lato", serif;
+    font-size: 24px;
+    font-weight: 900;
+    line-height: 33px;
+}
+
+.section-subtitle {
+    font-family: "Merriweather", serif;
+    font-size: 48px;
+    font-weight: 900;
+    line-height: 69px;
+    color: #333333;
+}
+
+.services {
+    background: #EBEBEB;
+}
+
+.services-title {
+    font-family: "Lato", serif;
+    font-size: 24px;
+    font-weight: 900;
+    line-height: 33px;
+    color: #BDBDBD;
+}
+
+.services-subtitle {
+    font-family: "Merriweather", serif;
+    font-size: 48px;
+    font-weight: 900;
+    line-height: 69px;
+    color: #333333;
+}
+
+.description-text {
+    font-family: "Lato", serif;
+    font-size: 18px;
+    font-weight: 300;
+    line-height: 25px;
+}
+
+.desc-item-title {
+    font-family: "Lato", serif;
+    font-size: 14px;
+    font-weight: 700;
+    line-height: 18px;
+    color: #FFF;
+}
+
+.desc-item-link {
+    font-family: "Lato", serif;
+    font-size: 24px;
+    font-weight: 900;
+    line-height: 30px;
+    text-decoration: none;
+    background-image: url("../img/our-services-card-bkg.jpg");
+}
+
+.section-subtitle-blue {
+    color: #005FA3;
+}
+
+.about-item {
+    color: #000;
+    background-color: #EBEBEB;
+}
+
+.about-item-active {
+    color: #FFF;
+    background-color: #005FA3;
+}
+
+.about-item-number {
+    font-family: "Lato", serif;
+    font-size: 55px;
+    font-weight: 900;
+    line-height: 66px;
+    letter-spacing: 0.1em;
+}
+
+.about-item-link {
+    font-family: "Lato", serif;
+    font-size: 14px;
+    font-weight: 700;
+    line-height: 17px;
+    color: #005FA3;
+}
+
+.about-item-link-active {
+    font-family: "Lato", serif;
+    font-size: 14px;
+    font-weight: 700;
+    line-height: 17px;
+    color: #FFF;
+}
+
+.button {
+    font-family: "Lato", serif;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 25px;
+    text-align: center;
+    color: #FFF;
+    background-color: #005FA3;
+    border: none;
+}
+
+.review-item {
+    background-color: #EBEBEB;
+}
+
+.review-item-text {
+    font-family: "Lato", serif;
+    font-size: 18px;
+    font-weight: 300;
+    line-height: 25px;
+    color: #000;
+}
+
+.review-item-author {
+    font-family: "Lato", serif;
+    font-size: 18px;
+    font-weight: 900;
+    line-height: 25px;
+    color: #000;
+}
+
+.review-item-position {
+    font-family: "Lato", serif;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 19px;
+    color: #4F4F4F;
+}
+
+.advantages {
+    background-color: #EBEBEB;
+}
+
+.advantages-item-title {
+    font-family: "Lato", serif;
+    font-size: 36px;
+    font-weight: 700;
+    line-height: 48px;
+}
+
+.footer-bkg {
+    color: #FFF;
+    background-color: #161616;
+    background-image: url("/img/footer-bkg.jpg");
+}
+
+.footer-contacts-desc {
+    font-family: "Lato", serif;
+    font-size: 18px;
+    font-weight: 300;
+    line-height: 25px;
+}
+
+.footer-contacts-item-link {
+    font-family: "Lato", serif;
+    font-size: 21px;
+    font-weight: 300;
+    line-height: 29px;
+    text-decoration: none;
+}
+
+.footer-text {
+    font-family: "Lato", serif;
+    font-size: 14px;
+    font-weight: 300;
+    line-height: 19px;
+}
+
+.white {
+    color: white;
+}
